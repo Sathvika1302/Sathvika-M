@@ -1,35 +1,37 @@
-<h1 align="center">Hi there 👋, I'm Sathvika M</h1>
+<h1 align="center">🌸 Hi there, I'm <span style="color:#FF69B4;">Sathvika M</span> 🌸</h1>
 <h3 align="center">Electronics & Communication Engineering Graduate (2021–2025)</h3>
 
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=500&color=34F7F1&center=true&vCenter=true&width=600&lines=Digital+Electronics+Enthusiast;Verilog+%7C+SystemVerilog+Learner;UVM+learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=600&color=FF69B4&center=true&vCenter=true&width=600&lines=Digital+Electronics+Enthusiast;Verilog+%7C+SystemVerilog+Learner;UVM+Learner;Aspiring+Design+Verification+Engineer" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sathvika1302&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sathvika1302&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sathvika1302&theme=dark&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathvika1302&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://komarev.com/ghpvc/?username=Sathvika1302&label=Profile%20Views&color=FF69B4&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-### 📫 How to Reach Me
+## 🌺 GitHub Analytics
 
-- *Email:* [reddysathvika1309@gmail.com](mailto:reddysathvika1309@gmail.com)
-- *LinkedIn:* [Sathvika M](https:www.linkedin.com/in/sathvika-m)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sathvika1302&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sathvika1302&theme=rose_pine&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathvika1302&theme=rose_pine&hide_border=false&layout=compact" />
+</p>
 
 ---
 
-### 💻 Languages and Tools
+## 📫 How to Reach Me
+
+- ✉ *Email:* [reddysathvika1309@gmail.com](mailto:reddysathvika1309@gmail.com)  
+- 💼 *LinkedIn:* [Sathvika M](https://www.linkedin.com/in/sathvika-m)  
+
+---
+
+## 💻 Languages and Tools
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
@@ -43,18 +45,20 @@
 
 ---
 
-### 🚀 About Me
+## 🌸 About Me
 
-- 🎓 Electronics and Communication Engineering Graduate (2021–2025)
-- 💡 Passionate about Digital Design, Verilog/SystemVerilog, and Design verification
-- 🧠 Interested in RTL design, Design Verification and semiconductor technology
-- 📈 Always learning and building projects to grow as a future Design/Verification Engineer
+- 🎓 Graduated in ECE (2021–2025)  
+- 💡 Passionate about *Digital Design & Verification*  
+- 🧠 Learning *Verilog, SystemVerilog, and UVM*  
+- 🔍 Interested in *RTL, DV, and Semiconductor Technologies*  
+- 📈 Building skills to become a strong *Design Verification Engineer*  
+
 ---
 
-### ⚙ Tools I Use Often
+## ⚙ Tools I Use
 
-![GVim](https://img.shields.io/badge/GVim-019733?style=for-the-badge&logo=vim&logoColor=white)
-![ModelSim](https://img.shields.io/badge/ModelSim-073642?style=for-the-badge&logo=notion&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GVim](https://img.shields.io/badge/GVim-FF69B4?style=for-the-badge&logo=vim&logoColor=white)
+![ModelSim](https://img.shields.io/badge/ModelSim-FFB6C1?style=for-the-badge&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white)
 
 ---
