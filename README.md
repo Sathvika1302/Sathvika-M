@@ -27,7 +27,7 @@
 ## 📫 Contact Me
 
 - ✉ **Email:** [reddysathvika1309@gmail.com](mailto:reddysathvika1309@gmail.com)  
-- 💼 **LinkedIn:** [Sathvika M](www.linkedin.com/in/sathvika-mr)  
+- 💼 **LinkedIn:** [Sathvika M](https://www.linkedin.com/in/sathvika-mr)  
 
 ---
 
