@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Shankrappa S Badami</h1>
+<h1 align="center">Hi there 👋, I'm Sathvika M</h1>
 <h3 align="center">Electronics & Communication Engineering Graduate (2021–2025)</h3>
 
 
@@ -8,25 +8,24 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shankar1302-Badami&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Sathvika1302&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shankar1302-Badami&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shankar1302-Badami&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sathvika1302&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sathvika1302&theme=dark&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shankar1302-Badami&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathvika1302&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 ---
 
 ### 📫 How to Reach Me
 
-- *Email:* [sbs660513@gmail.com](mailto:sbs660513@gmail.com)
-- *LinkedIn:* [Shankrappa S Badami](https://linkedin.com/in/shankrappa-sangappa-badami-591223238)
-- *Instagram:* [itz_me__shankar](https://instagram.com/itz_me__shankar)
+- *Email:* [reddysathvika1309@gmail.com](mailto:reddysathvika1309@gmail.com)
+- *LinkedIn:* [Sathvika M](https:www.linkedin.com/in/sathvika-m)
 
 ---
 
